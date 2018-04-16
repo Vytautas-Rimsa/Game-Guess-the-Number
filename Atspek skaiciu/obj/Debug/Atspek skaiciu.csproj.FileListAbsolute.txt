@@ -1,0 +1,38 @@
+c:\users\vytautas\documents\visual studio 2015\Projects\Atspek skaiciu\Atspek skaiciu\bin\Debug\Atspek skaiciu.exe.config
+c:\users\vytautas\documents\visual studio 2015\Projects\Atspek skaiciu\Atspek skaiciu\bin\Debug\Atspek skaiciu.exe
+c:\users\vytautas\documents\visual studio 2015\Projects\Atspek skaiciu\Atspek skaiciu\bin\Debug\Atspek skaiciu.pdb
+c:\users\vytautas\documents\visual studio 2015\Projects\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.csprojResolveAssemblyReference.cache
+c:\users\vytautas\documents\visual studio 2015\Projects\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek_skaiciu.Form1.resources
+c:\users\vytautas\documents\visual studio 2015\Projects\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek_skaiciu.Properties.Resources.resources
+c:\users\vytautas\documents\visual studio 2015\Projects\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.csproj.GenerateResource.Cache
+c:\users\vytautas\documents\visual studio 2015\Projects\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.exe
+c:\users\vytautas\documents\visual studio 2015\Projects\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.pdb
+D:\Atspek skaiciu\Atspek skaiciu\bin\Debug\Atspek skaiciu.exe.config
+D:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.exe
+D:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.pdb
+D:\Atspek skaiciu\Atspek skaiciu\bin\Debug\Atspek skaiciu.exe
+D:\Atspek skaiciu\Atspek skaiciu\bin\Debug\Atspek skaiciu.pdb
+D:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.csprojResolveAssemblyReference.cache
+D:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek_skaiciu.Form1.resources
+D:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek_skaiciu.Properties.Resources.resources
+D:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.csproj.GenerateResource.Cache
+E:\Atspek skaiciu\Atspek skaiciu\bin\Debug\Atspek skaiciu.exe.config
+E:\Atspek skaiciu\Atspek skaiciu\bin\Debug\Atspek skaiciu.exe
+E:\Atspek skaiciu\Atspek skaiciu\bin\Debug\Atspek skaiciu.pdb
+E:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.csprojResolveAssemblyReference.cache
+E:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek_skaiciu.Form1.resources
+E:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek_skaiciu.Properties.Resources.resources
+E:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.csproj.GenerateResource.Cache
+E:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.exe
+E:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.pdb
+E:\Atspek skaiciu\Atspek skaiciu\obj\Debug\Atspek skaiciu.csproj.CoreCompileInputs.cache
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\bin\Debug\Atspek skaiciu.exe.config
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\bin\Debug\Atspek skaiciu.exe
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\bin\Debug\Atspek skaiciu.pdb
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\obj\Debug\Atspek skaiciu.csprojResolveAssemblyReference.cache
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\obj\Debug\Atspek_skaiciu.Form1.resources
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\obj\Debug\Atspek_skaiciu.Properties.Resources.resources
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\obj\Debug\Atspek skaiciu.csproj.GenerateResource.Cache
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\obj\Debug\Atspek skaiciu.csproj.CoreCompileInputs.cache
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\obj\Debug\Atspek skaiciu.exe
+C:\Users\Vytautas\Documents\GitHub\C#\Atspek skaiciu\obj\Debug\Atspek skaiciu.pdb
